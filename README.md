@@ -10,11 +10,12 @@ Este projeto visa a prática da linguagem Ruby através do desenvolvimento de al
   * Linear Search ([Descrição](https://www.geeksforgeeks.org/linear-search/) | [Código](/algorithms/searching/linear_search.rb))
   * Binary Search ([Descrição](https://www.geeksforgeeks.org/binary-search/) | [Código](/algorithms/searching/binary_search.rb))
   * Jump Search ([Descrição](https://www.geeksforgeeks.org/jump-search/) | [Código](/algorithms/searching/jump_search.rb))
-  * Find Missing Number ([Descrição](https://www.geeksforgeeks.org/find-the-missing-number/) | [Código](/algorithms/searching/find_missing_number.rb))
+  * [Extra] Find Missing Number ([Descrição](https://www.geeksforgeeks.org/find-the-missing-number/) | [Código](/algorithms/searching/find_missing_number.rb))
 * Sorting algorithms
   * Bubble Sort ([Descrição](https://www.geeksforgeeks.org/bubble-sort/) | [Código](/algorithms/sorting/bubble_sort.rb))
   * Counting Sort ([Descrição](https://www.geeksforgeeks.org/counting-sort/) | [Código](/algorithms/sorting/counting_sort.rb))
   * Merge Sort ([Descrição](https://www.geeksforgeeks.org/merge-sort/) | [Código](/algorithms/sorting/merge_sort.rb))
+  * [Extra] Selection Sort ([Descrição](https://www.geeksforgeeks.org/selection-sort/) | [Código](/algorithms/sorting/selection_sort.rb))
 * Greedy algorithms
   * Maximize Array ([Descrição](https://www.geeksforgeeks.org/maximize-array-sun-after-k-negation-operations/) | [Código](/algorithms/greedy/maximize_array.rb))
   * Minimum Product ([Descrição](https://www.geeksforgeeks.org/minimum-product-subset-array/) | [Código](/algorithms/greedy/minimum_product.rb))
