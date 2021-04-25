@@ -19,6 +19,7 @@ Este projeto visa a prática da linguagem Ruby através do desenvolvimento de al
 * Greedy algorithms
   * Maximize Array ([Descrição](https://www.geeksforgeeks.org/maximize-array-sun-after-k-negation-operations/) | [Código](/algorithms/greedy/maximize_array.rb))
   * Minimum Product ([Descrição](https://www.geeksforgeeks.org/minimum-product-subset-array/) | [Código](/algorithms/greedy/minimum_product.rb))
+  * [Extra] Minimum Sum Pairs ([Descrição](https://www.geeksforgeeks.org/minimum-sum-choosing-minimum-pairs-array/) | [Código](/algorithms/greedy/minimum_sum_pairs.rb))
 
 ## Reconhecimentos
 
