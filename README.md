@@ -9,6 +9,7 @@ Este projeto visa a prática da linguagem Ruby através do desenvolvimento de al
 * String
   * Missing characters ([Descrição](https://www.geeksforgeeks.org/pangram-checking/) | [Código](/challenges/string/missing_characters.rb))
   * Count ([Descrição](https://www.geeksforgeeks.org/count-uppercase-lowercase-special-character-numeric-values/) | [Código](/challenges/string/count.rb))
+  * [Extra] Common Characters ([Descrição](https://www.geeksforgeeks.org/common-characters-n-strings/) | [Código](/challenges/string/common_characters.rb))
 * Array
   * Find Three ([Descrição](https://www.geeksforgeeks.org/find-the-largest-three-elements-in-an-array/) | [Código](/challenges/array/find_three.rb))
   * Reversal ([Descrição](https://www.geeksforgeeks.org/reversal-algorithm-right-rotation-array/) | [Código](/challenges/array/reversal.rb))
