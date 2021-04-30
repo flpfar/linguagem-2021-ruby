@@ -15,6 +15,7 @@ Este projeto visa a prática da linguagem Ruby através do desenvolvimento de al
   * Find Three ([Descrição](https://www.geeksforgeeks.org/find-the-largest-three-elements-in-an-array/) | [Código](/challenges/array/find_three.rb))
   * Reversal ([Descrição](https://www.geeksforgeeks.org/reversal-algorithm-right-rotation-array/) | [Código](/challenges/array/reversal.rb))
   * [Extra] Reorder Index ([Descrição](https://www.geeksforgeeks.org/reorder-a-array-according-to-given-indexes/) | [Código](/challenges/array/reorder_index.rb))
+  * [Extra] Positive and Negative ([Descrição](https://www.geeksforgeeks.org/positive-elements-at-even-and-negative-at-odd-positions-relative-order-not-maintained/) | [Código](/challenges/array/positive_negative.rb))
 * Date
   * Find Future ([Descrição](https://www.geeksforgeeks.org/queries-to-find-the-future-closest-date/) | [Código](/challenges/date/find_future.rb))
   * Sum Minute ([Descrição](https://www.geeksforgeeks.org/program-to-find-the-time-after-k-minutes-from-given-time/) | [Código](/challenges/date/sum_minute.rb))
