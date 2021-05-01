@@ -19,6 +19,7 @@ Este projeto visa a prática da linguagem Ruby através do desenvolvimento de al
 * Date
   * Find Future ([Descrição](https://www.geeksforgeeks.org/queries-to-find-the-future-closest-date/) | [Código](/challenges/date/find_future.rb))
   * Sum Minute ([Descrição](https://www.geeksforgeeks.org/program-to-find-the-time-after-k-minutes-from-given-time/) | [Código](/challenges/date/sum_minute.rb))
+  * [Extra] Calculate Age ([Descrição](https://www.geeksforgeeks.org/program-calculate-age/) | [Código](/challenges/date/calculate_age.rb))
 
 ## Reconhecimentos
 
